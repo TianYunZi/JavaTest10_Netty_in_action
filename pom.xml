@@ -11,6 +11,7 @@
     <modules>
         <module>2.1.1.EchoServer</module>
         <module>4.1.1.transport</module>
+        <module>20.1.1.heartbeat</module>
     </modules>
 
     <dependencies>
